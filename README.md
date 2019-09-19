@@ -30,8 +30,13 @@ Cloud BOT has a fleet of devices transmitting daily aggregated telemetry. Standa
 ## Notebooks
 
 1. [Exploratory Data Analysis](./notebooks/1_EDA.ipynb)
-2. [Basic Logistic Regression Model A](./notebooks/2_Basic_LogReg_Model.ipynb)
-3. [Basic Logistic Regression Model B](./notebooks/2b_Basic_LogReg_Model-Alt.ipynb)
+2. [Basic Logistic Regression Model](./notebooks/2_Basic_LogReg_Model.ipynb)
+3. [Tuned Logistic Regression Model](./notebooks/3_Tuned_LogReg_Model.ipynb)
+4. [Tuned and Feature Engineering/Selection](./notebooks/4_Tuned_LogReg_Features_Selection.ipynb)
+5. [Random Forest Classifier Model](./notebooks/5_Random_Forest_Model.ipynb)
+6. [Support Vector Machine Model](./notebooks/6_SVM_Model.ipynb)
+7. [Artificial Neural Network](./notebooks/7_Neural_Network.ipynb) 
+
 ## Methods
 
 
